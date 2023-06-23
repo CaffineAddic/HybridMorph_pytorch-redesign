@@ -1,0 +1,4 @@
+Currently there is a error in cell 10 
+Also There has to be a dataset provided 
+Forked from
+https://github.com/voxelmorph/voxelmorph/blob/dev/scripts/torch/train.py
