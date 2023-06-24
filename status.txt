@@ -4,4 +4,6 @@ Forked from
 https://github.com/voxelmorph/voxelmorph/blob/dev/scripts/torch/train.py
 
 Apparently to load MNSIT dataset from keras I need tensorflow installed, I guess 
-we cannot escape tf
+we cannot escape tf #Not using MNSIT anymore so no need
+New error in file VoxelMoprh_Tutorial_torch.ipynb in cell 16, I have sucessfully created
+the pytorch model now there is an issue with the input in the traning the cell
