@@ -7,3 +7,9 @@ Apparently to load MNSIT dataset from keras I need tensorflow installed, I guess
 we cannot escape tf #Not using MNSIT anymore so no need
 New error in file VoxelMoprh_Tutorial_torch.ipynb in cell 16, I have sucessfully created
 the pytorch model now there is an issue with the input in the traning the cell
+
+
+Two fuctions need to be re-worked 
+1. def vxm_data_generator(x_data, batch_size=32):
+2. def conform(x, in_shape = (256,) * 2):
+as they are in compatilbe with pytorch
