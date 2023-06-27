@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+#files too big for github
+Synthetic_data.npy
 
 # Distribution / packaging
 .Python
